@@ -2,10 +2,6 @@
 
 ### This project is part of Girl script Summer of code 2022
 
-<a href="https://gssoc.girlscript.tech/" target="_blank">
-<img alt="Gssoc'2022" width=100% src="https://i.postimg.cc/k40ntsV4/1500x500.jpg">
-</a>
-
 ## 💻 Tech Stack
 
 ### Front-End:
@@ -85,8 +81,6 @@ You should navigate to your forked repository, and press the "Compare & pull req
 
 GitHub will alert you that you can merge the two branches because there is no competing code. You should add in a title, a comment, and then press the “Create pull request” button.
 
-<br>
-
 ## CONTRIBUTING A NEW TEMPLATE?
 ### Please adhere to these guidelines 
 
@@ -130,11 +124,11 @@ If the folder name has no white spaces e.g "My-project", the object should be:
 
 ```
  
-<h2 align=center> ✨ Contributors </h2>
+## ✨ Contributors
 
 Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** of any kind are welcome!
 
-<h1 align=center>Happy Coding 👨‍💻 </h1>
+## Happy Coding 👨‍💻
 
 ## 💬Join Our CodeSmashers Community
 
