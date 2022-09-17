@@ -132,6 +132,6 @@ Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** 
 
 ## 💬Join Our CodeSmashers Community
 
-Join - https://discord.gg/gtYUZQSjTt
+[Join](https://discord.gg/gtYUZQSjTt) Show some ❤️&nbsp; by giving the star to this repo
 
-Show some ❤️&nbsp; by giving the star to this repo
+
