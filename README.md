@@ -1,4 +1,4 @@
-# This project is part of Girl script Summer of code 2022
+## This project is part of Girl script Summer of code 2022
 
 ## 💻 Tech Stack Front-End:
 
