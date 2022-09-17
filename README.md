@@ -123,5 +123,3 @@ If the folder name has no white spaces e.g "My-project", the object should be:
 ## ✨ Contributors
 
 Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** of any kind are welcome!
-
-## Happy Coding 👨‍💻
