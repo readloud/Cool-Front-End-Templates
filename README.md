@@ -9,26 +9,13 @@
 
 ### Before starting kindly please read the [Code of Conduct](/CODE_OF_CONDUCT.md)
 
-#### Step 1: Forking the repository :
-
-To work on an open-source project, you will first need to make your copy of the repository. To do this, you should fork the repository and then clone it so that you have a local working copy.
-
-Get your own Fork/Copy of repository by clicking `Fork` button right upper corner.<br><br>
-
-#### Step 2: Clone the Forked Repository
-
-After the repository is forked, you can now clone it so that you have a local working copy of the codebase.
-
-To make your local copy of the repository follow the steps:
-
-- Open the Command Prompt
-- Type this command:
+#### Clone the Forked Repository
 
 ```bash
 $ git clone https://github.com/<your-github-username>/Cool-Front-End-Templates
 ```
 
-#### Step 3: Creating a new branch (IMP)
+#### Creating a new branch (IMP)
 
 This is one of the very important step that you should follow to contribute to Open Source. A branch helps to manage the workflow, isolate your code and does not create a mess. To create a new branch:
 
@@ -43,11 +30,11 @@ Keep your cloned repo up-to date by pulling from upstream (this will also avoid 
 git pull origin main
 ```
 
-#### Step 5: Contribute
+#### Contribute
 
 Make relevant changes according to the issue that you were assigned on. Contribute in any way you feel like :)
 
-#### Step 6: Committing and Pushing
+#### Committing and Pushing
 
 Once you have modified an existing file or added a new file to the project, you can add it to your local repository, which we can do with the git add command.
 
