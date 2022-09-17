@@ -1,9 +1,9 @@
-### This project is part of Girl script Summer of code 2022 [Code of Conduct](/CODE_OF_CONDUCT.md)
-
-### 💻 Tech Stack Front-End:
+## 💻 Front-End Templates:
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+[Code of Conduct](/CODE_OF_CONDUCT.md)
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -106,15 +106,13 @@
 
 ### 🚀 Quick Start :
 
-#### Clone the Forked Repository
+#### Clone / Forked Repository
 
 ```bash
 $ git clone https://github.com/<your-github-username>/Cool-Front-End-Templates
 ```
 
 #### Creating a new branch (IMP)
-
-This is one of the very important step that you should follow to contribute to Open Source. A branch helps to manage the workflow, isolate your code and does not create a mess. To create a new branch:
 
 ```bash
 $ git branch <name_of_branch>
@@ -139,27 +137,13 @@ Once you have modified an existing file or added a new file to the project, you 
 git add .
 ```
 
-With our file staged, we’ll want to record the changes that we made to the repository with the git commit command.
-
-The commit message is an important aspect of your code contribution; it helps the other contributors fully understand the change you have made, why you made it, and how significant it is.
-
 ```bash
 git commit -m "useful commit message"
 ```
 
-At this point you can use the git push command to push the changes to the current branch of your forked repository:
-
 ```bash
 git push origin <branch-name>
 ```
-
-#### Step 7: Create Pull Request
-
-Now, you are ready to make a pull request to the original repository.
-
-You should navigate to your forked repository, and press the "Compare & pull request" button on the page.
-
-GitHub will alert you that you can merge the two branches because there is no competing code. You should add in a title, a comment, and then press the “Create pull request” button.
 
 ## CONTRIBUTING A NEW TEMPLATE?
 ### Please adhere to these guidelines 
@@ -206,4 +190,6 @@ If the folder name has no white spaces e.g "My-project", the object should be:
  
 ## ✨ Contributors
 
-Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** of any kind are welcome!
+Thanks go to these **Wonderful People** 👨🏻‍💻
+
+## 🚀 **Contributions** of any kind are welcome!
