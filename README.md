@@ -129,23 +129,7 @@ If the folder name has no white spaces e.g "My-project", the object should be:
     },
 
 ```
-   
-
-## 📌Till Then
-
-### Need Some Help in this Repo -> [Web Development And Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources)
-
-<p align="center"><img src="https://www.gurpreetsaluja.com/wp-content/uploads/2016/05/always-keep-learning.png" width=100%></p>
-<hr>
-
-### This project was a part of the following Open Source Program
-
-<a href="https://in.linkedin.com/company/devincept"><img alt="Devincept" title="Devincept" width=100% src="https://user-images.githubusercontent.com/56088741/123548852-1ef59d00-d784-11eb-8e39-255e0c3e97d5.gif"></a>
-
-<a href="https://hacktoberfest.digitalocean.com/"><img alt="HacktoberFest'21" title="HacktoberFest'21" width=100% src="https://user-images.githubusercontent.com/59393136/135566614-5635902f-2907-4e01-8baf-3cb1b43a6b20.png"></a>
-
-<hr>
-
+ 
 <h2 align=center> ✨ Contributors </h2>
 
 Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** of any kind are welcome!
