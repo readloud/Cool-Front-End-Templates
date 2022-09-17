@@ -1,4 +1,4 @@
-## Front-End Templates
+## Free Website Templates
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -102,8 +102,7 @@
   </ul>
 </details>
 
-[Download](https://github.com/readloud/Web-Apps/archive/refs/heads/main.zip)
-[Code of Conduct](/CODE_OF_CONDUCT.md)
+[Download .zip](https://github.com/readloud/Web-Apps/archive/refs/heads/main.zip)
 
 ### 🚀 Quick Start :
 
@@ -128,7 +127,7 @@ git pull origin main
 
 #### Contribute
 
-Make relevant changes according to the issue that you were assigned on. Contribute in any way you feel like :)
+Make relevant changes according to the issue that you were assigned on. Contribute in any way you feel like :) 
 
 #### Committing and Pushing
 
@@ -147,7 +146,7 @@ git push origin <branch-name>
 ```
 
 ## CONTRIBUTING A NEW TEMPLATE?
-### Please adhere to these guidelines 
+### Please add here to these guidelines based on [Code of Conduct](/CODE_OF_CONDUCT.md)
 
 1. Create a folder with the name of your frontend template 
 
