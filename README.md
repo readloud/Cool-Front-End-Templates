@@ -5,7 +5,7 @@
 <details>
   <summary>Contents</summary>
   <ul>
-<li><a href="https://readloud.github.io/Web-Apps/Admin Dashboard">Admin Dashboard</a></li>
+<li><a href="https://readloud.github.io/Web-Apps/Admin Dashboard/index.html">Admin Dashboard</a></li>
 <li><a href="https://readloud.github.io/Web-Apps/AmolShelke-portfolio">AmolShelke-portfolio</a></li>
 <li><a href="https://readloud.github.io/Web-Apps/AnimatedFrontendWebsite">AnimatedFrontendWebsite</a></li>
 <li><a href="https://readloud.github.io/Web-Apps/Art Gallery Website">Art Gallery Website</a></li>
