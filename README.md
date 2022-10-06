@@ -3,7 +3,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Demo</summary>
+  <summary>Live Preview</summary>
   <ul>
 <li><a href="/Admin Dashboard/">Admin Dashboard</a></li>
 <li><a href="/AmolShelke-portfolio">AmolShelke-portfolio</a></li>
