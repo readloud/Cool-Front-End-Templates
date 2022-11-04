@@ -1,5 +1,5 @@
 #page title
-page_title                                : OS Official Store            # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Cool-Front-End-Templates           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 785385147                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -7,11 +7,11 @@ ios_app_country                           : id                                  
 
 appstore_link                             : https://apps.apple.com/id/app/lazada-2-2-festival/id785385147?l=id                                        # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            : https://play.google.com/store/apps/details?id=com.lazada.android                                          # Enter Google Play Store URL.
-presskit_download_link                    : https://www.lazada.co.id/outer-simple/    # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : https://www.lazada.co.id/hedod/    # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Outer Simple | Lazada ID                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Hedod | Lazada ID                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : GRATIS                                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Berbelanja di Aplikasi memiliki banyak keuntungan. Banyak Voucher. Produk Eksklusif di App.
                                             Rekomendasi Hanya Untuk Anda. Dapatkan Promo Pertama. Unduh Aplikasi dan Belanja Sekarang!.</a>
@@ -36,8 +36,8 @@ youtube_username                          : UCfcbjJYlovhgxjyHhYtA3-
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : OUTER SIMPLE OFFICIAL STORE | LAZADA ID
-    description                           : Situs Belanja Online Fashion & Gaya Hidup. Kunjungi Toko Kami di <a href="https://www.lazada.co.id/outer-simple" alt="Outer Simple Official Store" target="_blank">Lazada</a>
+  - title                                 : HEDOD OFFICIAL STORE | LAZADA ID
+    description                           : Situs Belanja Online Fashion & Gaya Hidup. Kunjungi Toko Kami di <a href="https://www.lazada.co.id/hedod" alt="Hedod Official Store" target="_blank">Lazada</a>
     fontawesome_icon_name                 : magic
     
   - title                                 : VOUCHER 30K PENGGUNA BARU
